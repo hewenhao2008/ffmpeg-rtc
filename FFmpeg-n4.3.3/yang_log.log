@@ -1,0 +1,15 @@
+
+srtp init success!
+
+startRtc,port=18265
+candidate:ip==192.168.250.1,type=host,port=8000
+candidate:ip==192.168.72.127,type=host,port=8000
+candidate:ip==192.168.250.1,type=host,port=8000
+candidate:ip==192.168.72.127,type=host,port=8000
+remoteIp=192.168.72.127,port=8000
+ dtls is mbedtls
+ udp server is starting,localPort=18265
+DTLS: Reset the timer for ServerHello
+dtls handshake is sucess
+
+webrtc disconnect
