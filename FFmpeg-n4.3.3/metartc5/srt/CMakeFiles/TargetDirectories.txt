@@ -1,0 +1,13 @@
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/edit_cache.dir
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/srt-tunnel.dir
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/srt-file-transmit.dir
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/install/local.dir
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/srt-live-transmit.dir
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/srtsupport_virtual.dir
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/srt_static.dir
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/install.dir
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/list_install_components.dir
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/rebuild_cache.dir
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/srt_shared.dir
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/install/strip.dir
+/home/youliang/code/media/ffmpeg-rtc/FFmpeg-n4.3.3/metartc5/srt/CMakeFiles/srt_virtual.dir
